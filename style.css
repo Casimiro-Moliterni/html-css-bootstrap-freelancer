@@ -8,6 +8,10 @@
     background-color: #1abc9c;
 }
 
+.ms-bg-lightgrey{
+    background-color: #3a546d;
+}
+
 /* header  */
  ul{
     list-style: none;
@@ -21,6 +25,9 @@
     border: 1px solid white;
 }
 
+.ms-avatar{
+    height:270px
+}
 
 
 
