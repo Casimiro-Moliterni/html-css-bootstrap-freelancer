@@ -11,6 +11,12 @@
 .ms-bg-lightgrey{
     background-color: #3a546d;
 }
+.ms-color-lighdark{
+    color: #333333;
+}
+.ms-color-darkgrey{
+    color: #2c3e50;
+}
 
 /* header  */
  ul{
@@ -19,9 +25,10 @@
 }
 
 .ms-bt-green,
-.ms-bt-green:hover{
+.ms-bt-green:hover,
+.ms-bt-green:active{
     background-color: #1abc9c;
-    color: 1;
+    color: white;
     border: 1px solid white;
 }
 
@@ -37,7 +44,9 @@
 }
 
 
-
+.ms-bg-green{
+    background-color: #1abc9c;
+}
 
 
 
