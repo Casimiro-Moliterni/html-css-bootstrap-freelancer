@@ -25,6 +25,17 @@
     border: 1px solid white;
 }
 
+.ms-star i{
+    font-size: 35px;
+
+}
+
+.ms-line{
+    width: 100px;
+    border-radius: 20px;
+    height: 3px;
+}
+
 
 
 
