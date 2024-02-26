@@ -20,6 +20,37 @@
     color: #2c3e50;
 }
 
+.ms-overlay{
+    position:absolute;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+    background-color: #1abc9c;
+    opacity: 0.5;
+   
+    display: none;
+  }
+  
+  
+  .ms-overlay>i{
+      top: 50%;
+      left: 50%;
+      position: absolute;
+      transform: translate(-50%, -50%);
+      font-size: 70px;
+      color: white;
+  }
+
+.ms-card:hover .ms-overlay{
+    display: block;
+    cursor: pointer;
+}
+
+
+
 /* header  */
  ul{
     list-style: none;
