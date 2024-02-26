@@ -7,7 +7,9 @@
 .ms-bg-green{
     background-color: #1abc9c;
 }
-
+.ms-color-green{
+    color: #1abc9c;
+}
 .ms-bg-lightgrey{
     background-color: #3a546d;
 }
