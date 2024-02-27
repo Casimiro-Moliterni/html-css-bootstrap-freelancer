@@ -21,7 +21,7 @@
 }
 
 
-.nav-item a:hover{
+.nav-item:hover .nav-link{
     color: #1abc9c;
 }
 
@@ -60,7 +60,7 @@
     list-style: none;
    
 }
-
+button:hover,
 .ms-bt-green,
 .ms-bt-green:hover,
 .ms-bt-green:active{
